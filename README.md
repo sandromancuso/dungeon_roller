@@ -1,0 +1,1 @@
+Trying to learn a little bit of Lua and how Codea (iPad development tool) works. I copied the original version of the Dungeon Roller sample game and will use it to explore the language and Codea environment. 
